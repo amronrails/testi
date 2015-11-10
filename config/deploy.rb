@@ -2,7 +2,7 @@
 lock '3.4.0'
 
 set :application, 'testi'
-set :repo_url, 'git@example.com:amronrails/testi.git'
+set :repo_url, 'git@github.com:amronrails/testi.git'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
